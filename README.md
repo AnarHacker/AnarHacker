@@ -39,7 +39,7 @@ I build software and interactive prototypes, independently and with teammates. M
 
 ### Steppe Station
 
-My developer portfolio with an interactive 3D observatory. **In Development / Awaiting Deployment.**
+My developer portfolio with an interactive 3D observatory.
 
 <img src="./assets/steppe-station-explorer.jpg" alt="Screenshot of the working Steppe Station explorer showing its 3D terrain and five destinations" width="640">
 
@@ -61,5 +61,5 @@ My public [Remix Admin Template repository](https://github.com/AnarHacker/remix-
 
 ## Portfolio and contact
 
-- [**Steppe Station — In Development / Awaiting Deployment**](#steppe-station)
+- [**Steppe Station — Explore My Portfolio**](https://anarhacker.github.io/AnarHacker/)
 - **GitHub** · [@AnarHacker](https://github.com/AnarHacker)
