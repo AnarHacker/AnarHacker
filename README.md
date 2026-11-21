@@ -1,12 +1,8 @@
-<h1 align="center">Anar</h1>
-<p align="center">
-  <strong>Computer science student and developer</strong><br>
-  Shine Mongol Koosen · Ulaanbaatar, Mongolia
-</p>
+![Hey, I'm Anar. Computer Science Student & Developer. An animated terminal types four phrases about coding, exploring technology, creating practical projects, and learning every day.](./assets/anar-intro.gif)
 
-<p align="center">
-  <img src="./assets/steppe-station.jpg" alt="Steppe Station concept art showing an illuminated radio observatory on the Mongolian steppe at dusk" width="640">
-</p>
+# Anar
+
+Computer science student and developer at **Shine Mongol Koosen** in Ulaanbaatar, Mongolia.
 
 I build software and interactive prototypes, independently and with teammates. My projects span web applications, physical game controls, and experiments in 3D and video production.
 
