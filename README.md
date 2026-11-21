@@ -1,4 +1,4 @@
-![Hey, I'm Anar. Computer Science Student & Developer. An animated terminal types four phrases about coding, exploring technology, creating practical projects, and learning every day.](./assets/anar-intro.gif)
+![ANAR. Building Beyond the Screen. Floating metallic frames and animated cyan and amber light paths on graphite.](./assets/anar-digital-architecture.gif)
 
 # Anar
 
